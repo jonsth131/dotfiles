@@ -1,0 +1,12 @@
+# Remap caps lock to ctrl
+setxkbmap -option ctrl:nocaps
+# Keyboard layout switcher
+setxkbmap -layout us,se -option 'grp:alt_shift_toggle' &
+# Wallpaper
+nitrogen --restore &
+
+# Compositor
+picom -f &
+
+# Function key binding
+xbindkeys &

@@ -20,16 +20,21 @@ https://feeds.feedburner.com/TheHackersNews?format=xml
 https://www.dn.se/rss/
 https://www.svt.se/rss.xml
 https://computersweden.se/feed
-https://feeds.bbci.co.uk/news/rss.xml
 
 # mtg
 https://articles.starcitygames.com/feed/
 
 # programming
 https://devblogs.microsoft.com/dotnet/feed/
+https://blog.jetbrains.com/dotnet/feed/
+https://devblogs.microsoft.com/typescript/feed/
 https://syndication.thedailywtf.com/TheDailyWtf
 https://feeds.hanselman.com/scotthanselman
 https://blog.cwa.me.uk/feed/
-https://planetpython.org/rss20.xml
 https://davidwalsh.name/feed
+
+# linux
+https://blog.system76.com/rss.xml
+https://9to5linux.com/feed/atom
+https://linuxiac.com/feed/
 

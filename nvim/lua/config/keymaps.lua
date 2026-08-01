@@ -8,6 +8,7 @@ map("n", "<C-j>", "<C-w><C-j>", { desc = "Move to lower window" })
 map("n", "<C-k>", "<C-w><C-k>", { desc = "Move to upper window" })
 map("n", "<leader>w", "<cmd>w<CR>", { desc = "Save file" })
 map("n", "<leader>q", "<cmd>q<CR>", { desc = "Quit" })
+map("n", "<leader>pv", vim.cmd.Ex, { desc = "Open netrw file explorer" })
 
 -- Window splits
 map("n", "<leader>sv", "<cmd>vsplit<CR>", { desc = "Split window vertically" })

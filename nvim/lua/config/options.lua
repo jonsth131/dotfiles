@@ -21,7 +21,9 @@ opt.scrolloff = 8
 opt.tabstop = 2
 opt.shiftwidth = 2
 opt.expandtab = true
-opt.wrap = false
+opt.wrap = true
+opt.showbreak = "↪ "
+opt.textwidth = 80
 opt.termguicolors = true
 
 vim.g.mapleader = " "
